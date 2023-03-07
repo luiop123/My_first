@@ -1,0 +1,6 @@
+github.com/tencentcloud/tencentcloud-sdk-go/tencentcloud/common v1.0.608 h1:yLiHPyhxJDEpNRCVF5hfA3e1eV9VJMvbCqLJq1VG5/U=
+github.com/tencentcloud/tencentcloud-sdk-go/tencentcloud/common v1.0.608/go.mod h1:7sCQWVkxcsR38nffDW057DRGk8mUjK1Ing/EFOK8s8Y=
+github.com/tencentcloud/tencentcloud-sdk-go/tencentcloud/cvm v1.0.608 h1:zX13GfFfA2cz1y3BDwSD5JX52Fi6MZTcNAcXpPSlYPU=
+github.com/tencentcloud/tencentcloud-sdk-go/tencentcloud/cvm v1.0.608/go.mod h1:41R4qJ7ByMC3iFO3S7Z9hZ3iopyd/LQMDsYXF4PZrX4=
+github.com/tencentcloud/tencentcloud-sdk-go/tencentcloud/ocr v1.0.608 h1:hkKY4xGvafiwOFVsETB37u9YZjR5t6kQXzlSVXf6GJ4=
+github.com/tencentcloud/tencentcloud-sdk-go/tencentcloud/ocr v1.0.608/go.mod h1:XYiRZ1QLrKqdHa0DJxrcb5nkXi8kWPf0NTy2iSBpe/0=
